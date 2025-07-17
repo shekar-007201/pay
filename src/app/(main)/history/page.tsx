@@ -95,7 +95,7 @@ export default function HistoryPage() {
         </TabsContent>
         <TabsContent value="received" className="mt-4">
           <TransactionList filter="received" />
-        </Tabs-Content>
+        </TabsContent>
       </Tabs>
     </div>
   );
